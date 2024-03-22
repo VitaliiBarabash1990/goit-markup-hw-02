@@ -16,7 +16,7 @@ ol {
   background-color: #ffffff;
 }
 .header-nav-logo,
-.accent {
+.header-accent {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -27,7 +27,7 @@ ol {
 .header-nav-logo {
   color: #4d5ae5;
 }
-.accent {
+.header-accent {
   color: #2e2f42;
 }
 
@@ -189,14 +189,14 @@ ol {
   font-family: "Raleway", sans-serif;
 }
 .footer-link,
-.accent {
+.footer-accent {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.accent,
+.footer-accent,
 .footer-title {
   color: #f4f4fd;
 }
